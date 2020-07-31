@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation-using-K-Means-Clustering-and-Detection-using-Convolutional-Neural-Network
+# Brain Tumor Segmentation using K-Means Clustering and Detection usinG Convolutional Neural Network
 
 ## ABSTRACT
 
@@ -16,6 +16,24 @@ ISSN: 2278–3075 (Online)
 
 Available at https://www.ijitee.org/download/volume-9-issue-5/
 
+## SOFTWARE & LIBRARIES USED 
+1.  Functional Requirement 
+    - Python enabled system 
+    - Support for all given libraries 
+
+2.  Software Requirement 
+    - Python 3.7 
+    - Anaconda Navigator 
+    - Notepad 
+    - Spyder
+3.  Libraries used: 
+    - Keras 
+    - Scikit-Learn 
+    - Numpy 1.16.4 
+    - Tensorflow 1.13.1 
+    - Keras.models.load_model 
+    - OpenCV 3.4.2
+    
 ## INSTRUCTION TO EXECUTE THE CODE 
 1.	Locate the anaconda navigator in your system. 
 
