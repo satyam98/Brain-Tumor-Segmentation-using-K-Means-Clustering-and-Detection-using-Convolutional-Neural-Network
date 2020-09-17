@@ -2,7 +2,7 @@
 
 ## ABSTRACT
 
-This paper presents brain tumor detection and segmentation using image processing techniques. Convolutional neural networks can be applied for medical research in brain tumor analysis. The tumor in the MRI scans is segmented using the K-means clustering algorithm which is applied of every scanand the feed it to the convolutional neural network for training and testing. In our CNN we propose to use ReLU and Sigmoidactivation functions to determine our end result. The training isdone only using the CPU power and no GPU is used. The research is done in two phases, image processing and applying neural network.
+This project presents brain tumor detection and segmentation using image processing techniques. Convolutional neural networks can be applied for medical research in brain tumor analysis. The tumor in the MRI scans is segmented using the K-means clustering algorithm which is applied of every scanand the feed it to the convolutional neural network for training and testing. In our CNN we propose to use ReLU and Sigmoidactivation functions to determine our end result. The training isdone only using the CPU power and no GPU is used. The research is done in two phases, image processing and applying neural network.
 
 ## ABOUT AUTHOR AND PAPER
 
