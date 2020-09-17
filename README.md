@@ -6,7 +6,7 @@ This paper presents brain tumor detection and segmentation using image processin
 
 ## ABOUT AUTHOR AND PAPER
 
-Authored by: @Prakash U. M., @Satyam Pandey, @Khushbu Kumari, @P. Sathishkumar
+Authored by: Prakash U. M., Satyam Pandey,Khushbu Kumari, P. Sathishkumar
 
 Accepted by: Blue Eyes Intelligence Engineering and Sciences Publication
 
